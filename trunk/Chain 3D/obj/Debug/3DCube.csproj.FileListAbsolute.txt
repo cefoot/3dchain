@@ -1,8 +1,0 @@
-C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\3DCube\bin\Debug\3DCube.exe
-C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\3DCube\bin\Debug\3DCube.pdb
-C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\3DCube\obj\Debug\ResolveAssemblyReference.cache
-C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\3DCube\obj\Debug\_3DCube.Form1.resources
-C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\3DCube\obj\Debug\_3DCube.Properties.Resources.resources
-C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\3DCube\obj\Debug\3DCube.csproj.GenerateResource.Cache
-C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\3DCube\obj\Debug\3DCube.exe
-C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\3DCube\obj\Debug\3DCube.pdb
