@@ -1,9 +1,0 @@
-F:\programmieren\c#\Test\Test\bin\Release\Test.exe.config
-F:\programmieren\c#\Test\Test\bin\Release\Test.exe
-F:\programmieren\c#\Test\Test\bin\Release\Test.pdb
-F:\programmieren\c#\Test\Test\obj\Release\ResolveAssemblyReference.cache
-F:\programmieren\c#\Test\Test\obj\Release\Test.Form1.resources
-F:\programmieren\c#\Test\Test\obj\Release\Test.Properties.Resources.resources
-F:\programmieren\c#\Test\Test\obj\Release\Test.csproj.GenerateResource.Cache
-F:\programmieren\c#\Test\Test\obj\Release\Test.exe
-F:\programmieren\c#\Test\Test\obj\Release\Test.pdb
