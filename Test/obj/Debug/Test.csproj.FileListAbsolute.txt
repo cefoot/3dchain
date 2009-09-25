@@ -1,0 +1,18 @@
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\bin\Debug\Test.exe.config
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\obj\Debug\Test.Form1.resources
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\obj\Debug\Test.exe
+C:\Dokumente und Einstellungen\Chris\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Test\obj\Debug\Test.pdb
+F:\programmieren\c#\Test\Test\bin\Debug\Test.exe.config
+F:\programmieren\c#\Test\Test\obj\Debug\Test.exe
+F:\programmieren\c#\Test\Test\obj\Debug\Test.pdb
+F:\programmieren\c#\Test\Test\bin\Debug\Test.exe
+F:\programmieren\c#\Test\Test\bin\Debug\Test.pdb
+F:\programmieren\c#\Test\Test\obj\Debug\ResolveAssemblyReference.cache
+F:\programmieren\c#\Test\Test\obj\Debug\Test.Form1.resources
+F:\programmieren\c#\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\programmieren\c#\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
